@@ -1,0 +1,5 @@
+{name, mimetypes}.
+{vsn, "507823a0e6a5f6654c61945152a7ba88bd55ad0e"}.
+{summary, ""}.
+{source, {git, "https://github.com/spawngrid/mimetypes.git",
+	"507823a0e6a5f6654c61945152a7ba88bd55ad0e"}}.

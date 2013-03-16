@@ -1,0 +1,4 @@
+{name, jiffy}.
+{vsn, "0.8.2"}.
+{summary, ""}.
+{source, {git, "https://github.com/davisp/jiffy.git", {tag, "0.8.2"}}}.
